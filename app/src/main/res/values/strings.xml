@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDrinks</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="action_go">Go</string>
+    <string name="drink_title">Drink with Gemini</string>
+    <string name="prompt_placeholder">Provide a recipe for the bottle in the image</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="run">Run</string>
+    <string name="wine">Wine</string>
+    <string name="beer">Beer</string>
+</resources>
